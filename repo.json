@@ -1,0 +1,10 @@
+{
+    "head": "main",
+    "nextCommitId": 9,
+    "branches": [{
+        "name": "main",
+        "description": "Default branch",
+        "headCommitId": "8"
+    }],
+    "remoteUrl": "reallukedev/open-source-level"
+}
